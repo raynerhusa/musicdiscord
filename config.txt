@@ -1,0 +1,6 @@
+owner=466935034050248704
+prefix=+
+game=Rayner Client
+stayinchannel=true
+songinstatus=false
+token=TuwgfbKVBk0hYrzIxpITeu8VGspl7ao9
